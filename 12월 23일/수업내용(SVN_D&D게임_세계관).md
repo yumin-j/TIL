@@ -4,7 +4,17 @@
 * 먼저 어떤 캐릭터를 만들 지 정한다.(성직자, 전사, 드워프, 마법사, 엘프 등) 
 * 다음과 같은 캐릭터 시트에 책에 적혀 있는 대로 각자 적어본다.
 
-<img src="C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20191223201547929.png" alt="image-20191223201547929" style="zoom:67%;" />
+![캐릭터시트.png](https://blogfiles.pstatic.net/MjAxOTEyMjNfMjY2/MDAxNTc3MTAxMDA4NTEy.p5QzxoaLTKfOHrTxWOYUeeLp0AtLEEZo7zX5ziCXOh8g.Kxlm76SkdMXk4xFO1UFy4S3-YKwoKsBV2p6US998LK0g.PNG.yumin9838/%EC%BA%90%EB%A6%AD%ED%84%B0%EC%8B%9C%ED%8A%B8.png?type=w1)
+
+대표사진 삭제
+
+- 사진 편집
+- 
+- 작게작게문서 너비문서 너비옆트임옆트임
+- 
+- 삭제삭제
+
+사진 설명을 입력하세요.
 
 * 책은 강사님의 베이직 플레이어 규칙책을 참고했다.
 
