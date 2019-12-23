@@ -6,15 +6,7 @@
 
 ![캐릭터시트.png](https://blogfiles.pstatic.net/MjAxOTEyMjNfMjY2/MDAxNTc3MTAxMDA4NTEy.p5QzxoaLTKfOHrTxWOYUeeLp0AtLEEZo7zX5ziCXOh8g.Kxlm76SkdMXk4xFO1UFy4S3-YKwoKsBV2p6US998LK0g.PNG.yumin9838/%EC%BA%90%EB%A6%AD%ED%84%B0%EC%8B%9C%ED%8A%B8.png?type=w1)
 
-대표사진 삭제
 
-- 사진 편집
-- 
-- 작게작게문서 너비문서 너비옆트임옆트임
-- 
-- 삭제삭제
-
-사진 설명을 입력하세요.
 
 * 책은 강사님의 베이직 플레이어 규칙책을 참고했다.
 
